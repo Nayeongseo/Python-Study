@@ -8,7 +8,7 @@ Study on Python Grammar
 
 |week|required study content|check|
 |-----|----------------------|-----|
-|week 1|sequence types, conditional statement| |
+|week 1|sequence types, conditional statement|☑|
 |week 2|loop, function| |
 |week 3|class| |
 
